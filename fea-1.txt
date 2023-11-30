@@ -3,3 +3,4 @@ something
 old
 hello
 there, everyone
+thanks, everyone
